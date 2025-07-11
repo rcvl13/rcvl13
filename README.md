@@ -22,7 +22,7 @@ const aboutMe = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcvl13&layout=compact&theme=tokyonight)
 
 
-## 🛠️ Technologies & Tools
+## ⚙️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
