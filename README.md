@@ -1,36 +1,50 @@
-# 👋 Hello! I'm Rohit Chipkar
+## 👋 Hello! I'm Rohit Chipkar
 
 🎓 Graduate ECOMP Student  
 💻 MERN Stack Developer | DevOps Enthusiast  
 📍 Goa, India
 
+```js
 const aboutMe = {
   name: "Rohit Chipkar",
   username: "rcvl13",
   stack: "MERN",
   code: ["JavaScript", "React", "Node.js", "Express", "MongoDB"],
-  tools: ["Git", "Figma", "VS Code", "Firebase"],
-  currentFocus: "Building full-stack apps",
+  tools: ["Github", "VS Code", "Postman", "Docker"],
+  currentFocus: "Building full-stack apps with AI integration",
   funFact: "I love clean UI and solving real-world problems"
 };
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rcvl13&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcvl13&layout=compact&theme=tokyonight" />
-
----
-
-## 🚀 My Tech Stack
+```
+#  # 🧠 Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906343.png" width="40" height="40" title="UI/UX Design" />
+  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/545/545674.png" width="40" height="40" title="REST API" />
 </p>
+
+
