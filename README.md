@@ -4,7 +4,6 @@
 💻 MERN Stack Developer | DevOps Enthusiast  
 📍 Goa, India
 
-```js
 const aboutMe = {
   name: "Rohit Chipkar",
   username: "rcvl13",
