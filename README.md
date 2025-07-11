@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Rohit Chipkar
 
-🎓 Graduate ECOMP Student  
+🎓 Graduate ECOMP Student with minor in Data Science
 💻 MERN Stack Developer | DevOps Enthusiast  
 📍 Goa, India
 
