@@ -12,7 +12,7 @@ const aboutMe = {
   code: ["JavaScript", "React", "Node.js", "Express", "MongoDB"],
   tools: ["Github", "VS Code", "Postman", "Docker"],
   currentFocus: "Building full-stack apps with AI integration",
-  funFact: "I love clean UI and solving real-world problems"
+  funFact: "I code to fix things that annoy people — including myself"
 };
 ```
 #  # 🧠 Skills & Tools
